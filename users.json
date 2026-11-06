@@ -1,0 +1,42 @@
+{
+  "admin": {
+    "pass": "mri2025",
+    "role": "admin",
+    "name": "Главный администратор"
+  },
+  "operator": {
+    "pass": "operator2026",
+    "role": "operator",
+    "name": "Оператор колл-центра"
+  },
+  "dyagileva": {
+    "pass": "doc123",
+    "role": "doctor",
+    "name": "Дягилева Н.Е.",
+    "filter": ["головного мозга", "мультифокальных"]
+  },
+  "atlasov": {
+    "pass": "doc123",
+    "role": "doctor",
+    "name": "Атласов А.А.",
+    "filter": ["стандартная", "общей"]
+  },
+  "glebov": {
+    "pass": "doc123",
+    "role": "doctor",
+    "name": "Глебов А.С.",
+    "filter": ["новообразований", "онко"]
+  },
+  "timofeev": {
+    "pass": "doc123",
+    "role": "doctor",
+    "name": "Тимофеев Г.К.",
+    "filter": ["вещества головного мозга"]
+  },
+  "pevzner": {
+    "pass": "doc123",
+    "role": "doctor",
+    "name": "Певзнер С.Е.",
+    "filter": ["малого таза", "нейрорадиологии"]
+  }
+}
